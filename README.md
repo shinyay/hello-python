@@ -15,6 +15,10 @@ Overview
 
 ## Usage
 
+```shell
+source .hello-python/bin/activate.fish
+```
+
 ## Installation
 
 ## References
