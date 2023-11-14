@@ -24,6 +24,10 @@ pyenv install 3.11.6
 pyenv local 3.11.6
 ```
 
+```shell
+python -m venv .venv
+```
+
 ## Features
 
 - feature:1
