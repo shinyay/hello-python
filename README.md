@@ -12,6 +12,11 @@ Using the following tools:
 
 ## Demo
 
+### 1. Poetry Initialization
+
+```shell
+mkdir hello-poetry
+```
 ## Features
 
 - feature:1
