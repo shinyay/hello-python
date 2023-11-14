@@ -28,6 +28,10 @@ pyenv local 3.11.6
 python -m venv .venv
 ```
 
+```
+poetry init
+```
+
 ## Features
 
 - feature:1
