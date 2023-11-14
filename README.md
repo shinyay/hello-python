@@ -15,7 +15,7 @@ Using the following tools:
 ### 1. Poetry Initialization
 
 ```shell
-mkdir hello-poetry
+poetry new hello-poetry
 ```
 
 ```shell
