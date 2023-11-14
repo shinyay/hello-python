@@ -1,4 +1,4 @@
-# Name
+# Getting started with Python and Poetry
 
 Overview
 
