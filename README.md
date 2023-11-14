@@ -28,7 +28,7 @@ pyenv local 3.11.6
 python -m venv .venv
 ```
 
-```
+```shell
 poetry init
 ```
 
