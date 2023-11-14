@@ -27,7 +27,7 @@ python -m venv .venv
 ```
 
 ```shell
-poetry init
+poetry add tqdm
 ```
 
 ## Features
