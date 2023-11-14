@@ -17,6 +17,13 @@ Using the following tools:
 ```shell
 mkdir hello-poetry
 ```
+
+```shell
+cd hello-poetry
+pyenv install 3.11.6
+pyenv local 3.11.6
+```
+
 ## Features
 
 - feature:1
