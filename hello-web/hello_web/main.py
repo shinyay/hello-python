@@ -1,5 +1,8 @@
+import requests
+
 def main():
-    print("Hello Poetry")
+    req = requests.get("https://example.com/")
+    print(req.text)
 
 if __name__ == "__main__":
     main()
