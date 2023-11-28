@@ -1,0 +1,7 @@
+ipython
+jupyter
+tqdm
+numpy
+pandas
+scipy
+
