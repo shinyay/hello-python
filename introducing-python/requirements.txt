@@ -1,5 +1,5 @@
 ipython
-jupyter
+jupyterlab
 tqdm
 numpy
 pandas
